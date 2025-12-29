@@ -12,7 +12,9 @@
     alt="Typing SVG"
   />
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+</p>
 ## 💫 About Me
 💻 Senior CS student at KFUPM  
 🧠 Backend • Data • Applied AI  
