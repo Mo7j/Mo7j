@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&lines=Senior+CS+Student+%40+KFUPM;Backend+%7C+Data+%7C+Applied+AI" />
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-nasser-hijazi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
@@ -10,12 +9,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" /> </p>
-
 ## 🛠 Core Tech Stack
 **Tools I actively use and can confidently defend**
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -34,10 +29,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" /> </p>
-
-  <b>GitHub Activity</b>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo7j&theme=dark&hide_border=true" />
+<p align="center">
+  <a href="mailto:7j.mo7ammed@gmail.com">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo7j&theme=dark&hide_border=true" />
+  </a>
+</p>
+ 
 
 📌 *Pinned repositories showcase real-world problems and production-minded solutions.*
