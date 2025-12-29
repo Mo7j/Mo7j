@@ -54,7 +54,6 @@
 </p>
 
 ## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mo7j&theme=dark&hide_border=true&include_all_commits=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mo7j&theme=dark&hide_border=true)
 
 <p align="center">
