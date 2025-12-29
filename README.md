@@ -5,8 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-nasser-hijazi/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:7j.mo7ammed@gmail.com)
 
----
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" /> </p>
 
 ## 🛠 Core Tech Stack
