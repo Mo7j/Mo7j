@@ -31,11 +31,14 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+<details>
+  <summary><b>GitHub Activity</b></summary>
 <p align="center">
   <a href="mailto:7j.mo7ammed@gmail.com">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo7j&theme=dark&hide_border=true" />
   </a>
 </p>
+</details>
  
 
 📌 *Pinned repositories showcase real-world problems and production-minded solutions.*
