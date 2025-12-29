@@ -12,6 +12,22 @@
     alt="Typing SVG"
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com
+      ?font=Fira+Code
+      &size=20
+      &pause=1200
+      &color=36BCF7
+      &center=true
+      &vCenter=true
+      &width=420
+      &lines=Senior+CS+%40+KFUPM;Backend+%7C+Data+%7C+Applied+AI" 
+    alt="Typing SVG"
+  />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 </p>
