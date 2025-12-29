@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=4DA3FF&center=true&vCenter=true&width=600&lines=Senior+CS+Student+%40+KFUPM;Backend+%7C+Data+%7C+Applied+AI" />
+<p align="center" style>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=4DA3FF&center=true&vCenter=true&width=600&lines=Senior+CS+Student+%40+KFUPM;Backend+%7C+Data+%7C+Applied+AI" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-nasser-hijazi/">
