@@ -10,7 +10,6 @@
 ## 🛠 Core Tech Stack
 **Tools I actively use and can confidently defend**
 
-### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -30,7 +29,8 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" /> </p>
-  <summary><b>GitHub Activity</b></summary>
+
+  <b>GitHub Activity</b>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo7j&theme=dark&hide_border=true" />
 
