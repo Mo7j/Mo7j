@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&lines=Senior+CS+Student+%40+KFUPM;Backend+%7C+Data+%7C+Applied+AI" />
 </p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-nasser-hijazi/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:7j.mo7ammed@gmail.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-nasser-hijazi/)
+![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:7j.mo7ammed@gmail.com)
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" /> </p>
 
