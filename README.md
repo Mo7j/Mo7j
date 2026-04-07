@@ -1,19 +1,11 @@
-<h1 align="center">Mohammed Hijazi</h1>
+<h1>Mohammed Hijazi</h1>
 
-<p align="center">
+<p>
   B.S. Computer Science @ <b>KFUPM</b><br/>
-  Data Engineering · Applied AI · Backend Systems
+  Building data-driven and AI-powered systems for decision-making and optimization — focused on data engineering, applied AI, and backend systems.
 </p>
 
-## About
-
-I build data-driven and AI-powered applications for decision-making and optimization.
-
-Focused on data engineering, applied AI, and backend systems.
-
 ## Skills
-
-<p align="center">
 
 <a href="https://www.python.org" title="Python">
   <img src="https://skillicons.dev/icons?i=python" height="60"/>
@@ -58,5 +50,3 @@ Focused on data engineering, applied AI, and backend systems.
 <a href="https://www.sap.com" title="SAP / ABAP">
   <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="60"/>
 </a>
-
-</p>
