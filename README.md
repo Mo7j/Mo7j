@@ -1,52 +1,31 @@
-<h1>Mohammed Hijazi</h1>
+<h1 align="center">Mohammed Hijazi</h1>
 
-<p>
-  B.S. Computer Science @ <b>KFUPM</b><br/>
-  Building data-driven and AI-powered systems for decision-making and optimization — focused on data engineering, applied AI, and backend systems.
+<p align="center">
+  B.S. Computer Science @ <b>KFUPM</b> (2026) · Dhahran, Saudi Arabia<br/>
+  Building data-driven and AI-powered systems, heading toward <b>Data Engineering</b>, <b>AI Engineering</b> & <b>Software Engineering</b>.
 </p>
 
-## Skills
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-nasser-hijazi"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:7j.mo7ammed@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- Portfolio (planned): uncomment when live
+  <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-6c5ce7?logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  -->
+</p>
 
-<a href="https://www.python.org" title="Python">
-  <img src="https://skillicons.dev/icons?i=python" height="60"/>
-</a>
+---
 
-<a href="https://www.postgresql.org" title="PostgreSQL">
-  <img src="https://skillicons.dev/icons?i=postgres" height="60"/>
-</a>
+### Currently
+- Building a hands-on **machine learning** project in my home lab, end to end: data, training, and deployment.
+- Growing my depth in **data engineering** (pipelines, SQL, warehousing) and **applied AI** (agents, LLM apps).
+- Open to fresh-grad roles in data engineering, AI engineering, and software engineering (2026).
 
-<a href="https://fastapi.tiangolo.com" title="FastAPI">
-  <img src="https://skillicons.dev/icons?i=fastapi" height="60"/>
-</a>
+### Featured projects
+- **[JobPilot](https://github.com/Mo7j/JobPilot):** a crew of Claude AI agents that finds roles, scores fit, drafts CVs, and fills applications, then waits for your approval. React + Firebase + MCP, fully self-hosted.
+- **[RigSync](https://github.com/Mo7j/RigSync):** digital-twin platform for rig-move planning, fleet coordination, and execution tracking (senior project, Team-034).
 
-<a href="https://www.docker.com" title="Docker">
-  <img src="https://skillicons.dev/icons?i=docker" height="60"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-  <img src="https://skillicons.dev/icons?i=js" height="60"/>
-</a>
-
-<a href="https://react.dev" title="React">
-  <img src="https://skillicons.dev/icons?i=react" height="60"/>
-</a>
-
-<a href="https://nodejs.org" title="Node.js">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
-</a>
-
-<a href="https://flutter.dev" title="Flutter">
-  <img src="https://skillicons.dev/icons?i=flutter" height="60"/>
-</a>
-
-<a href="https://supabase.com" title="Supabase">
-  <img src="https://skillicons.dev/icons?i=supabase" height="60"/>
-</a>
-
-<a href="https://git-scm.com" title="Git">
-  <img src="https://skillicons.dev/icons?i=git" height="60"/>
-</a>
-
-<a href="https://www.sap.com" title="SAP / ABAP">
-  <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="60"/>
-</a>
+### Tech
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,fastapi,react,js,nodejs,flutter,supabase,firebase,docker,git" alt="skills" />
+  <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="48" alt="SAP / ABAP" />
+</p>
